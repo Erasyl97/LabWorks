@@ -2,7 +2,7 @@ package lab3
 import scala.io.StdIn._
 
 object lab3 extends App {
-
+/*
   //------------------------------------Task1----------------------------------
   println("----------Task1----------")
   def divideOpt(num1: Int, num2: Int) : Option[Int] = {
@@ -51,5 +51,5 @@ object lab3 extends App {
     }
   }
   //calculator("5","+","5")
-
+*/
 }
